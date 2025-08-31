@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nima Heydari</h1>
 <h3 align="center">A passionate flutter developer from Iran</h3>
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVpcHdlODF4eGN2emVqZWtwa3pqcWVuNWIzaHpybmpib3BhOWw0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xtdXQwNGZ6aW5xbHl6Z25sZGpueHU4Mm9peTBjYWp5bmpmYmo0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimazero&label=Profile%20views&color=0e75b6&style=flat" alt="nimazero" /> </p>
 
@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimazero&show_icons=true&locale=en&layout=compact" alt="nimazero" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nimazero&show_icons=true&locale=en" alt="nimazero" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimazero&show_icons=true&locale=en" alt="nimazero" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nimazero&" alt="nimazero" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimazero&" alt="nimazero" /></p>
