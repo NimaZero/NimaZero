@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nima Heydari</h1>
 <h3 align="center">A passionate flutter developer from Iran</h3>
 
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzExOTRsdm80b29wZ3dqMTdkc2tzcWVtZXBoMjhwMWV4aDR0dzg3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
+<img align="center" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVpcHdlODF4eGN2emVqZWtwa3pqcWVuNWIzaHpybmpib3BhOWw0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimazero&label=Profile%20views&color=0e75b6&style=flat" alt="nimazero" /> </p>
 
